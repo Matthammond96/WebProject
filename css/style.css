@@ -1,0 +1,93 @@
+#container {
+    background: #eeeeee;
+    width: 1100px;
+    max-height: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+}
+
+#header {
+    background: #eee;
+    width: 1100px;
+    height: 100px;
+}
+
+#headerH {
+    text-align: center;
+    width: 1100px;
+    height: 60px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
+#nav {
+    background: #ddd;
+    width: 1100px;
+    height: 20px;
+    padding-top: 7.5px;
+}
+
+#nav a:link {
+    color:#0000ff; background-color:transparent; text-decoration:none
+}
+
+#nav a:visited {
+    color:#0000ff; background-color:transparent; text-decoration:none
+}
+
+#nav a:hover {
+    color:#ff0000; background-color:transparent; text-decoration:underline
+}
+
+#nav a:active {
+    color:#ff0000; background-color:transparent; text-decoration:underline
+}   
+
+.about {
+    background: #eee;
+    width: 1100px;
+    height: auto;
+    overflow: auto;
+    margin-bottom: 25px;
+}
+
+.member {
+    background: #ccc;
+    width: 300px;
+    height: 300px;
+    overflow: ax$uto;
+    margin-top: 20px;
+    margin-left: 50px;
+    float: left;    
+    position: relative;
+}
+
+.name {
+    background: #bbb;
+    height: 50px; 
+}
+
+.name h4 {
+    margin: 0px;
+    padding-top: 20px;  
+    text-align: center;
+}
+
+.info {
+    height: 275px;   
+}
+
+.info p {
+    margin: 0px;
+    padding: 10px;   
+}
+
+#footer {
+    background: #ddd;
+    height: 50px;
+    width: 1100px;
+}
+
+
